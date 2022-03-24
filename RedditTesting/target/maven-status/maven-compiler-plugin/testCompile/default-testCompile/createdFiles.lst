@@ -1,0 +1,5 @@
+Pages\MainPage.class
+Steps\Steps.class
+Pages\LoginPage.class
+Pages\HomePage.class
+Steps\TestRunnerReddit.class
